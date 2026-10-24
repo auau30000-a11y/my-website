@@ -4,4 +4,4 @@
 ## 内容
 - index/html : このサイトのファイル
 - style.css : 見た目の設定ファイル
-- 
+- readme.md : りーどみー必ず読む

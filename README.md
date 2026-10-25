@@ -1,5 +1,6 @@
 # my-website 
 放送大学面接授業「GitHubによるウェブ開発」で作成している自己紹介サイトです。
+![CI](https://github.com/auau30000-a11y/my-website/actions/workflows/ci.yml/badge.svg)
 
 ## 内容
 - index/html : このサイトのファイル
